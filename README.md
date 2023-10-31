@@ -15,3 +15,8 @@ The notebooks can be run on [Google Colab](https://colab.research.google.com/) o
 1. Python ABCs [Click](lecture2/python_abcs.ipynb)
 1. Python XYZs [Click](lecture2/python_xyzs.ipynb)
 1. A first AutoML ML pipeline [Click](lecture2/first_ml_pipeline.ipynb)
+
+
+### Lecture 3
+
+1. Finish: A first AutoML ML pipeline [Click](lecture3/first_ml_pipeline.ipynb)
