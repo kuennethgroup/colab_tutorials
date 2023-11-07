@@ -20,3 +20,9 @@ The notebooks can be run on [Google Colab](https://colab.research.google.com/) o
 ### Lecture 3
 
 1. Finish: A first AutoML ML pipeline [Click](lecture3/first_ml_pipeline.ipynb)
+1. Intro to data processing [Click](lecture3/intro_data.ipynb)
+
+
+### Lecture 4
+
+1. AT HOME: Work with Pandas: balance data, plot, store [Click](lecture4/HOME_balance_data_and_save.ipynb)
