@@ -28,3 +28,10 @@ The notebooks can be run on [Google Colab](https://colab.research.google.com/) o
 1. AT HOME: Work with Pandas: balance data, plot, store [Click](lecture4/HOME_balance_data_and_save.ipynb)
 1. Outlier detection with sklearn [Click](lecture4/outlier_detection.ipynb)
 1. Compute fingerprints for text and materials [Click](lecture4/fingerprints.ipynb)
+
+
+
+### Lecture 5
+
+1. AT HOME: Operations 🤕 on multi-dimensional arrays (tensors) [Click](lecture5/AT_HOME_multi_dim_arrays.ipynb)
+
