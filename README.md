@@ -1,7 +1,10 @@
 # Tutorial Python notebooks
 
-The notebooks can be run on [Google Colab](https://colab.research.google.com/) or locally
+Run these notebooks on [Google Colab](https://colab.research.google.com/) by using the buttons in the notebooks or
 
+run these in VScode or
+
+run these locally in jupyter.
 
 
 ### Lecture 1 
