@@ -37,5 +37,15 @@ run these locally in jupyter.
 ### Lecture 5
 
 1. AT HOME: Operations 🤕 on multi-dimensional arrays (tensors) [Click](lecture5/AT_HOME_multi_dim_arrays.ipynb)
+1. Step-by-step linear regression [Click](lecture5/step-by-step-linear-regression.ipynb) (moved to lecture 6)
+
+
+
+### Lecture 6
+
+1. Template for your own project [Click](lecture6/example_README.md)
 1. Step-by-step linear regression [Click](lecture5/step-by-step-linear-regression.ipynb)
+1. HOEMWORK [Click](lecture6/HOMEWORK.ipynb)
+
+
 
