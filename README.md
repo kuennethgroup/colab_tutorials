@@ -45,7 +45,12 @@ run these locally in jupyter.
 
 1. Template for your own project [Click](lecture6/example_README.md)
 1. Step-by-step linear regression [Click](lecture5/step-by-step-linear-regression.ipynb)
-1. HOEMWORK [Click](lecture6/HOMEWORK.ipynb)
+1. HOMEWORK [Click](lecture6/HOMEWORK.ipynb)
 
 
+### Lecture 7
+
+1. Step-by-step linear regression [Click](lecture5/step-by-step-linear-regression.ipynb)
+1. My first NN [Click](lecture7/my_first_nn.ipynb)
+1. HOMEWORK (play with and modify some parts of step-by-step linear regression) [Click](lecture6/HOMEWORK.ipynb)
 
