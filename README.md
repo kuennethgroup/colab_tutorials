@@ -54,3 +54,11 @@ run these locally in jupyter.
 1. My first NN [Click](lecture7/my_first_nn.ipynb)
 1. HOMEWORK (play with and modify some parts of step-by-step linear regression) [Click](lecture6/HOMEWORK.ipynb)
 
+### Lecture 8
+
+1. AutoML with AutoGluon to predict the tendency to crystalize for polymer [Click](lecture8/autoML.ipynb)
+2. HOMEWORK: prepare for your project 🚀 [Click](lecture8/prepare_for_hackathon.md)
+3. 1. Visualize neural networks [Click](lecture8/neural_neworks.ipynb)
+
+
+
