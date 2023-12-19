@@ -61,4 +61,12 @@ run these locally in jupyter.
 3. 1. Visualize neural networks [Click](lecture8/neural_neworks.ipynb)
 
 
+### Hackathon 1
+
+1. Regression: template for training a property ML predictor from chemical structures [Click](lecutre_hackathon1/template_ml_regression.ipynb)
+2. Computer vision: template for training a property predictor from figures [Click](lecutre_hackathon1/template_ml_computer_vision.ipynb)
+
+
+
+
 
