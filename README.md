@@ -58,13 +58,19 @@ run these locally in jupyter.
 
 1. AutoML with AutoGluon to predict the tendency to crystalize for polymer [Click](lecture8/autoML.ipynb)
 2. HOMEWORK: prepare for your project 🚀 [Click](lecture8/prepare_for_hackathon.md)
-3. 1. Visualize neural networks [Click](lecture8/neural_neworks.ipynb)
+3. Visualize neural networks [Click](lecture8/neural_neworks.ipynb)
 
 
 ### Hackathon 1
 
 1. Regression: template for training a property ML predictor from chemical structures [Click](lecutre_hackathon1/template_ml_regression.ipynb)
 2. Computer vision: template for training a property predictor from figures [Click](lecutre_hackathon1/template_ml_computer_vision.ipynb)
+
+
+### Lecture 9
+
+1. Train your pytorch NN [Click](lecture9/a_lovely_NN_in_pytorch.ipynb)
+2. HOMEWORK: Read https://jalammar.github.io/illustrated-transformer !
 
 
 
