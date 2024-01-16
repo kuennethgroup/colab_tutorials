@@ -73,6 +73,13 @@ run these locally in jupyter.
 2. HOMEWORK: Read https://jalammar.github.io/illustrated-transformer !
 
 
+### Lecture 10
+
+1. Please read this great [article](https://distill.pub/2019/visual-exploration-gaussian-processes/) on "A Visual Exploration of Gaussian Processes"
+
+2. Folloturial: BO for design of experiments [Click](lecture10/bo_with_ax.ipynb)
+
+
 
 
 
