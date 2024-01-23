@@ -76,10 +76,10 @@ run these locally in jupyter.
 ### Lecture 10
 
 1. Please read this great [article](https://distill.pub/2019/visual-exploration-gaussian-processes/) on "A Visual Exploration of Gaussian Processes"
-
 2. Folloturial: BO for design of experiments [Click](lecture10/bo_with_ax.ipynb)
 
 
+### Lecture 11
 
-
-
+1. RAG with Wiki data for polymers [Click](lecture11/rag_for_wiki.ipynb)
+2. Deploy a ML model with streamlit [Click](lecture11/deploy_transformer_streamlit.py)
