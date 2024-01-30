@@ -83,3 +83,8 @@ run these locally in jupyter.
 
 1. RAG with Wiki data for polymers [Click](lecture11/rag_for_wiki.ipynb)
 2. Deploy a ML model with streamlit [Click](lecture11/deploy_transformer_streamlit.py)
+
+
+### Hackathon II
+
+See [folder](lecture_hackathon2/)
