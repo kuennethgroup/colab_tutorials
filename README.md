@@ -1,10 +1,8 @@
-# Tutorial Python notebooks
+# Tutorials and followtorials for the course "Machine Learning: A Hands-On Approach" at University of Bayreuth by Christopher Kuenneth
 
-Run these notebooks on [Google Colab](https://colab.research.google.com/) by using the buttons in the notebooks or
+Run the notebooks on [Google Colab](https://colab.research.google.com/) using the buttons in the notebooks or in VScode or Jupyter.
 
-run these in VScode or
-
-run these locally in jupyter.
+I am using [PDM](https://github.com/pdm-project/pdm/) for managing the Python dependencies. 
 
 
 ### Lecture 1 
@@ -87,4 +85,4 @@ run these locally in jupyter.
 
 ### Hackathon II
 
-See [folder](lecture_hackathon2/)
+See README in [folder](lecture_hackathon2/).
